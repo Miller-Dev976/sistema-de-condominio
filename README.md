@@ -19,6 +19,8 @@ Sistema para o síndico organizar moradores, unidades e reservas das áreas comu
 - **Agregação (◇):** Bloco agrupa Unidades (a unidade existe sem o bloco).
 - **Composição (◆):** Reserva possui Cobranca (a cobrança nasce e morre com a reserva).
 
+![Diagrama de classes](diagrama/diagrama-classes-condo-system.drawio.png)
+
 ## Estrutura do repositório
-- `diagrama/` — diagrama de classes (`.drawio`, abra em app.diagrams.net)
-- `src/` — código-fonte em Java
+- `diagrama/` — diagrama de classes (`.drawio` para editar em app.diagrams.net e `.png` para visualizar)
+- `src/condominio/` — código-fonte em Java
